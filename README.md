@@ -19,7 +19,7 @@
 
 ## 🌐 Portfolio & Blogs
 - 🌍 **Portfolio:** [Visit Here](https://madhusudhanan19042005.github.io/portfolio-/)
-- ✍️ **Hashnode Blog:** [Hashnode Profile](YOUR_HASHNODE_LINK)
+- ✍️ **Hashnode Blog:** [Hashnode Profile](https://hashnode.com/@madhu2005)
 
 ---
 
@@ -59,10 +59,9 @@
 
 ## 🤝 Connect With Me
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x)](YOUR_TWITTER_LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](YOUR_INSTAGRAM_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhusudhanan-s-663b3a199/)
 
 ---
 
-⭐️ *Let’s build impactful tech together!*
 
