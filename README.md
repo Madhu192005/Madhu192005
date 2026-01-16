@@ -26,7 +26,7 @@
 ## 🛠️ I Code In
 ![Python](https://img.icons8.com/color/48/python--v1.png)
 ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
-![Rust](https://img.icons8.com/color/48/rust-programming-language.pngt)
+![Rust](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png)
 ![HTML5](https://img.icons8.com/ios-filled/50/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
